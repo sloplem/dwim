@@ -2,5 +2,7 @@
 name = "dwim"
 version = "0.1.0"
 edition = "2024"
+description = "Do What I Mean - write markdown, let an AI agent figure it out"
+license = "WTFPL"
 
 [dependencies]
